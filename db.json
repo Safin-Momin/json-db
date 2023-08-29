@@ -1,0 +1,243 @@
+{
+  "users": [
+    {
+      "name": "safin",
+      "email": "safin@gmail.com",
+      "password": "safin@123",
+      "id": 1
+    },
+    {
+      "name": "safin",
+      "email": "safin@gmail.com",
+      "password": "safin@123",
+      "_id": "",
+      "id": 2
+    },
+    {
+      "name": "vasim",
+      "email": "vasim@gmail.com",
+      "password": "vasim@123",
+      "_id": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "_id": "",
+      "id": 4
+    },
+    {
+      "name": "yasin",
+      "email": "yasin@gmail.com",
+      "password": "yasin@123",
+      "_id": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "_id": "",
+      "id": 6
+    },
+    {
+      "name": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "Rohit@123",
+      "_id": "",
+      "id": 7
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "tomy",
+      "contact": "564986456",
+      "address": "barton chock",
+      "id": 9
+    },
+    {
+      "name": "HFC",
+      "contact": "98165498661",
+      "address": "Ruvapari road bhavnagar",
+      "id": 11
+    },
+    {
+      "name": "fdf",
+      "contact": "dffd",
+      "address": "fdfd",
+      "id": 12
+    }
+  ],
+  "repeatUser": [
+    {
+      "name": "safin",
+      "email": "safin@gmail.com",
+      "password": "safin@123",
+      "id": 1
+    },
+    {
+      "name": "anas",
+      "email": "anas@gmail.com",
+      "password": "anas@123",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "name": "yasin",
+      "email": "yasin@gmail.com",
+      "password": "yasin@123",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 15
+    }
+  ],
+  "repeatRestaurant": [
+    {
+      "name": "HFC bhavnagar",
+      "contact": "98165498661",
+      "address": "Ruvapari road bhavnagar",
+      "id": 1
+    }
+  ],
+  "EventData": [
+    {
+      "id": 1,
+      "name": "Independence day",
+      "organisedBy": "Young group",
+      "location": "bhavnagar",
+      "date": "15/8/2023",
+      "time": "9:00 AM",
+      "coveredArea": "200sqft",
+      "population": "100",
+      "fee": "50 Rs. only"
+    },
+    {
+      "id": 2,
+      "name": "parents day",
+      "organisedBy": "Young group",
+      "location": "bhavnagar",
+      "date": "18/8/2023",
+      "time": "9:00 PM",
+      "coveredArea": "100sqft",
+      "population": "500",
+      "fee": "100 Rs. only"
+    },
+    {
+      "id": 3,
+      "name": "Mothers day",
+      "organisedBy": "young group",
+      "location": "barton libraru bhavnagar",
+      "date": "15/8/2023",
+      "time": "9:00 AM",
+      "coveredArea": "100sqft",
+      "population": "300",
+      "fee": "500 Rs. only"
+    },
+    {
+      "id": 4,
+      "name": "Republic day",
+      "organisedBy": "Young group",
+      "location": "bhavnagar",
+      "date": "15/8/2023",
+      "time": "9:00 AM",
+      "coveredArea": "200sqft",
+      "population": "100",
+      "fee": "200 Rs. only"
+    },
+    {
+      "id": 5,
+      "name": "Manoranjan day",
+      "organisedBy": "Young group",
+      "location": "bhavnagar",
+      "date": "25/12/2023",
+      "time": "10:00 PM",
+      "coveredArea": "200sqft",
+      "population": "150",
+      "fee": "450 Rs. only"
+    },
+    {
+      "id": 6,
+      "name": "annivarsery day",
+      "organisedBy": "Young group",
+      "location": "botad",
+      "date": "29/11/2023",
+      "time": "10:00 PM",
+      "coveredArea": "200sqft",
+      "population": "1000",
+      "fee": "40 Rs. only"
+    },
+    {
+      "id": 7,
+      "name": "Tiger day",
+      "organisedBy": "Young group",
+      "location": "bhavnagar",
+      "date": "25/10/2023",
+      "time": "11:00 PM",
+      "coveredArea": "200sqft",
+      "population": "550",
+      "fee": "950 Rs. only"
+    },
+    {
+      "id": 8,
+      "name": "Lion day",
+      "organisedBy": "Young group",
+      "location": "bhavnagar",
+      "date": "30/12/2023",
+      "time": "10:00 PM",
+      "coveredArea": "500sqft",
+      "population": "350",
+      "fee": "50 Rs. only"
+    },
+    {
+      "id": 9,
+      "name": "Children's day",
+      "organisedBy": "Young group",
+      "location": "Ahmedabad",
+      "date": "25/1/2023",
+      "time": "12:00 PM",
+      "coveredArea": "250sqft",
+      "population": "150",
+      "fee": "0 Rs. only"
+    }
+  ]
+}
